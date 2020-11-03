@@ -1,10 +1,10 @@
 <table>
 <tr>
-<th>Argument</th>
-<th>Description</th>
+<th>Biden</th>
+<th>Trump</th>
 </tr>
 <tr>
-<td>appDir</td>
+<td>appDir ---------------------------------------------------------------------------------------======================</td>
 <td>The top level directory that contains your app. If this option is used then
 it assumed your scripts are in</td>
 </tr>
