@@ -23,6 +23,7 @@
 
 下表是列出所有摇摆州可能结果的表格
 | Biden | Trump |
+| ----- | ----- |
 | 415( California,Texas,Florida,NewYork,Illinois,Pennsylvania,Ohio,Georgia,Michigan,NorthCarolina,NewJersey,Virginia,Washington,Arizona,Massachusetts,Maryland,Minnesota,Wisconsin,Colorado,Connecticut,Oregon,Iowa,Nevada,NewMexico,Hawaii,Maine,NewHampshire,RhodeIsland,Delaware,DistrictofColumbia,Montana,Vermont ) | 123( Indiana,Tennessee,Missouri,Alabama,SouthCarolina,Kentucky,Louisiana,Oklahoma,Arkansas,Kansas,Mississippi,Utah,Nebraska,WestVirginia,Idaho,Alaska,NorthDakota,SouthDakota,Wyoming ) | 
 | 409( California,Texas,Florida,NewYork,Illinois,Pennsylvania,Ohio,Georgia,Michigan,NorthCarolina,NewJersey,Virginia,Washington,Arizona,Massachusetts,Maryland,Minnesota,Wisconsin,Colorado,Connecticut,Oregon,Iowa,NewMexico,Hawaii,Maine,NewHampshire,RhodeIsland,Delaware,DistrictofColumbia,Montana,Vermont ) | 129( Indiana,Tennessee,Missouri,Alabama,SouthCarolina,Kentucky,Louisiana,Oklahoma,Arkansas,Kansas,Mississippi,Nevada,Utah,Nebraska,WestVirginia,Idaho,Alaska,NorthDakota,SouthDakota,Wyoming ) | 
 | 409( California,Texas,Florida,NewYork,Illinois,Pennsylvania,Ohio,Georgia,Michigan,NorthCarolina,NewJersey,Virginia,Washington,Arizona,Massachusetts,Maryland,Minnesota,Wisconsin,Colorado,Connecticut,Oregon,Nevada,NewMexico,Hawaii,Maine,NewHampshire,RhodeIsland,Delaware,DistrictofColumbia,Montana,Vermont ) | 129( Indiana,Tennessee,Missouri,Alabama,SouthCarolina,Kentucky,Louisiana,Oklahoma,Arkansas,Iowa,Kansas,Mississippi,Utah,Nebraska,WestVirginia,Idaho,Alaska,NorthDakota,SouthDakota,Wyoming ) | 
