@@ -37,7 +37,7 @@ class Solution{
                 if(s.size()>0) s.pop_back();
                 cout<<c;
                 if(c){ cout<<"( "<<s<<" )";}
-                cout<<" | "<<endl<<endl;
+                cout<<" | "<<endl;
                 
                 return;
             }
